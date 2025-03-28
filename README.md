@@ -1,54 +1,22 @@
-###
-<h2 align="center">Hello! Welcome to my profile</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Josu%C3%A9;Hello%2C+my+name+is+Josu%C3%A9;Sou+um+desenvolvedor+de+software;I'm+a+software+developer)](https://git.io/typing-svg)
 
+## 🖥️ Experiência
+- 🌐 Estagiário de Desenvolvimento Web em Nova Rota do Oeste
 
-<p>
-  <h3>History of activities</h3>
-</p>
+## 📰 About me
+- 🐱 Passionate Final year student at Pune University, specializing in frontend development, and Java development. Adept in Data Structures and Algorithms, I bring a fresh perspective to UI/UX design. Eager to contribute innovative solutions and collaborate on cutting-edge projects. Ready to embark on a dynamic journey in the world of technology..
 
+## 🛠️ Languages and Tools
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
 
-
-###
-
-<div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=josueoliveira1&show_icons=true&rank_icon=github&count_private=true&hide_border=true&custom_title=Resumo+de+Josué+Oliveira&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueoliveira1&layout=compact&hide_border=true&custom_title=Linguagens+mais+usadas&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
-###
-
-## Tecnologies
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="14" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/dart-programming-language-icon.svg" height="38" alt="dart logo"  />
-    <img width="12" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="41" alt="c logo"  />
-
-###
-  </div>
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Frameworks</h3>
-    <img align="center" alt="Nodejs" height="32" width="35" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img align="center" alt="Flutter" height="30" width="40" src="https://www.svgrepo.com/show/353751/flutter.svg">
-    <img align="center" alt="Angular" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
-    <img align="center" alt="Tailwind" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg">
-  </div>
-  
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools</h3>
-    <img align="center" alt="Docker" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="scikit_learn" height="35" width="35"/>
-    <img width="12" />
-    <img align="center" alt="Oracle" height="35" width="35" src="https://pbs.twimg.com/profile_images/1533830901800615936/FMaKZbh-_400x400.png">
-  </div>
+___
+#### [LinkedIn](https://www.linkedin.com/in/josueoliveira1/) - [Email](mailto:josue.oliveira8569@gmail.com)
