@@ -7,16 +7,13 @@
 - 🐱 Passionate Final year student at Pune University, specializing in frontend development, and Java development. Adept in Data Structures and Algorithms, I bring a fresh perspective to UI/UX design. Eager to contribute innovative solutions and collaborate on cutting-edge projects. Ready to embark on a dynamic journey in the world of technology..
 
 ## 🛠️ Languages and Tools
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />&nbsp;
-
-</div>
+  <div style="flex-basis: 48%;">
+     <img align="center" alt="Nodejs" height="32" width="35" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+     <img align="center" alt="Flutter" height="30" width="40" src="https://www.svgrepo.com/show/353751/flutter.svg">
+     <img align="center" alt="Angular" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+     <img align="center" alt="React" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+     <img align="center" alt="Tailwind" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/archive/d/d5/20230715030041%21Tailwind_CSS_Logo.svg">
+   </div>
 
 ___
 #### [LinkedIn](https://www.linkedin.com/in/josueoliveira1/) - [Email](mailto:josue.oliveira8569@gmail.com)
